@@ -1,5 +1,4 @@
-# Interesting Article:
-## EdTech Revolution: The Impact of Software Development on Education Industry
+# Interesting Article: EdTech Revolution: The Impact of Software Development on Education Industry
 - https://radixweb.com/blog/edtech-revolution-software-development-is-reshaping-education-industry
 
 I've always had a huge fascination with the intersection of CS and Education. This article specifically hits on Edtech and discusses it's revolutionization due to Software Development. Most specifically how different platforms and the accessibility of remote learning have impacted and shifted the way education is taught. 
