@@ -10,3 +10,7 @@ Overall, this article proves the important role tech plays in education. With ed
 ## Comment by *nadsb26*
 
 I really like how this article highlights the shift from standardized education to more **personalized, adaptive learning**. It shows how software development doesn’t just make learning accessible, but also engaging and inclusive. As someone studying computer science, I find this inspiring because it reinforces how our field can directly improve the way people learn and grow.
+
+## Comment by ***ryt2004***
+
+It is uplifting to read about the ways in which technological advancements can and are improving early education, especially during a time when there is so much noise surrounding the literacy crisis and how children are lacking the dexterity to use writing implements with the increasing number of touch screens. These setbacks are still imperative to highlight, but it's encouraging to hear that it's not all negative.
